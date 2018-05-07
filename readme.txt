@@ -1,0 +1,3 @@
+1、leaning git
+2、git is a version control system
+3、git is free software
