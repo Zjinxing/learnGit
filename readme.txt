@@ -1,6 +1,6 @@
 1、leaning git
 2、git is a distributed version control system
-3、git is free software distributed under the GPL.
+3、git is a free software distributed under the GPL.
 4、git has a mutable index called stage
 5、git tracks changes of files.
 6、creating a new branch is quick and simple.
