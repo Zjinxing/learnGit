@@ -3,5 +3,6 @@
 3、git is free software distributed under the GPL.
 4、git has a mutable index called stage
 5、git tracks changes of files.
-6、creating new branch is quick & simple.
+6、creating a new branch is quick and simple.
+
 
