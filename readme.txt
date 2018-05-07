@@ -5,4 +5,4 @@
 5、git tracks changes of files.
 6、creating a new branch is quick and simple.
 7、something is changed
-
+8、it’s half of the work
